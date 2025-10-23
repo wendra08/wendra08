@@ -1,5 +1,6 @@
 # Hi there, I am Wendra👋
 
+- 💻 Currently i'm working at PT ITCI KARTIKA UTAMA as Information Technology Specialist
 - 😜 I'm studying in Mulawarman University
 - 🌱 I’m currently learning 
   - Machine Learning
