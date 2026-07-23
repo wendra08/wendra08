@@ -4,7 +4,7 @@
 
 💻 I currently work at **PT ITCI Kartika Utama** as an **Information Technology Specialist**.
 
-🎓 I am also studying at **Mulawarman University**.
+🎓 I am also graduate at **Mulawarman University**.
 
 I focus on developing internal information systems, managing IT infrastructure, supporting users, and improving business processes through digitalization.
 
@@ -61,12 +61,6 @@ Some of the systems I have developed and worked on:
 * Machine Learning
 * Data Science
 * DevOps and Deployment
-
-## Connect With Me
-
-* [LinkedIn](https://www.linkedin.com/in/wendrasuryananda/)
-* [Instagram](https://www.instagram.com/whendraaa/)
-* [GitHub](https://github.com/wendra08)
 
 <div align="center">
 
