@@ -68,26 +68,23 @@ Some of the systems I have developed and worked on:
 * [Instagram](https://www.instagram.com/whendraaa/)
 * [GitHub](https://github.com/wendra08)
 
-## GitHub Statistics
-
 <p align="center">
-  <a href="https://github.com/wendra08">
-    <img
-      width="400em"
-      src="https://github-readme-stats.vercel.app/api?username=wendra08&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"
-      alt="Wendra's GitHub Statistics"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendra08&theme=tokyonight"
+    alt="Wendra's GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/wendra08">
-    <img
-      width="400em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendra08&layout=compact&theme=synthwave&langs_count=8"
-      alt="Wendra's Most Used Languages"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wendra08&theme=tokyonight"
+    alt="Wendra's GitHub Statistics"
+  />
+  
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wendra08&theme=tokyonight"
+    alt="Wendra's Most Used Languages"
+  />
 </p>
 
 ---
