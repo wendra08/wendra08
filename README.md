@@ -68,27 +68,50 @@ Some of the systems I have developed and worked on:
 * [Instagram](https://www.instagram.com/whendraaa/)
 * [GitHub](https://github.com/wendra08)
 
-<p align="center">
+<div align="center">
+
+  <h2>Connect With Me</h2>
+
+  <p>
+    <a href="https://www.linkedin.com/in/wendrasuryananda/">LinkedIn</a>
+    &nbsp; • &nbsp;
+    <a href="https://www.instagram.com/whendraaa/">Instagram</a>
+    &nbsp; • &nbsp;
+    <a href="https://github.com/wendra08">GitHub</a>
+  </p>
+
+  <br>
+
+  <h2>GitHub Statistics</h2>
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendra08&theme=tokyonight"
+    width="700"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wendra08&theme=synthwave"
     alt="Wendra's GitHub Profile Details"
   />
-</p>
 
-<p align="center">
+  <br><br>
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wendra08&theme=tokyonight"
+    width="350"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wendra08&theme=synthwave"
     alt="Wendra's GitHub Statistics"
   />
-  
+
+  <br><br>
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wendra08&theme=tokyonight"
-    alt="Wendra's Most Used Languages"
+    width="350"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wendra08&theme=synthwave"
+    alt="Wendra's Top Languages"
   />
-</p>
 
----
+  <br><br>
 
-<p align="center">
-  Building useful systems, solving real problems, and continuously learning.
-</p>
+  <p>
+    <strong>
+      Building useful systems, solving real problems, and continuously learning.
+    </strong>
+  </p>
+
+</div>
