@@ -2,7 +2,7 @@
 
 ## About Me
 
-💻 I currently work at **PT ITCI Kartika Utama** as an **Information Technology Specialist**.
+💻 I currently work at **PT Graha Prima Energy** as an **IT Developer**.
 
 🎓 I am also graduate at **Mulawarman University**.
 
